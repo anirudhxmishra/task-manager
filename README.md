@@ -174,10 +174,10 @@ You can test the API using **Postman** or any API testing tool.
 ![Home Page](./screenshot/1.png)  
 
 ### **✅ Adding a Task**
-![Adding Task](./screenshots/2.png)  
+![Adding Task](./screenshot/2.png)  
 
 ### **🗑️ Completed Task**
-![Deleting Task](./screenshots/3.png)  
+![Deleting Task](./screenshot/3.png)  
 
 ---
 
